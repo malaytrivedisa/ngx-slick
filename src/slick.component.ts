@@ -44,7 +44,7 @@ export class SlickComponent implements AfterViewInit, OnDestroy {
      * On component destroy
      */
     ngOnDestroy() {
-        this.unslick();
+       // this.unslick();
     }
 
     /**
